@@ -31,7 +31,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "1380.0"
+          "t": "23.0"
         }
       }
     },
@@ -62,7 +62,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "9120.0"
+          "t": "152.0"
         }
       }
     },
@@ -93,7 +93,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "29520.0"
+          "t": "492.0"
         }
       }
     },
@@ -124,7 +124,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "29580.0,30180.0"
+          "t": "493.0,503.0"
         }
       }
     },
@@ -155,7 +155,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "32520.0"
+          "t": "542.0"
         }
       }
     },
@@ -186,7 +186,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "33600.0"
+          "t": "560.0"
         }
       }
     }
