@@ -23,6 +23,16 @@
         "id": "https://ellabaird.github.io/jumpcuts-meshes/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellabaird.github.io/jumpcuts-meshes/annotations/meshes-of-the-afternoon-canvas-1-jump-cut-.json",
+            "label": {
+              "none": ["Jump Cut "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ellabaird.github.io/jumpcuts-meshes/meshes-of-the-afternoon/canvas-1/paintings",
